@@ -1,0 +1,24 @@
+# Practica Python: listas y filtros
+
+Practica educativa preparada para trabajo con agentes de codigo.
+
+## Objetivo
+
+Completar los ejercicios manteniendo tests, explicaciones y rubrica alineados.
+
+## Estructura
+
+- `src/`: codigo del ejercicio.
+- `tests/`: pruebas automatizadas.
+- `soluciones/`: soluciones de referencia mantenidas por el equipo docente.
+- `rubrica.md`: criterios de revision.
+
+## Lenguaje
+
+python
+
+## Validacion
+
+```text
+python -m unittest discover -s tests
+```
