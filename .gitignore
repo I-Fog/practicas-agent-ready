@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+build/
+*.exe
+codex-study-audit.md
+codex-study-audit.json
